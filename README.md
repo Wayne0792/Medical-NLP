@@ -1,4 +1,4 @@
-# 🏥 Medical NLP Portfolio: Intent Classification & Entity Recognition
+# 🏥 Medical NLP: Intent Classification & Entity Recognition
 
 This repository showcases two distinct Natural Language Processing (NLP) projects designed to automate the processing and triage of medical text, demonstrating proficiency in both traditional Machine Learning (ML) and modern Transformer architectures.
 
